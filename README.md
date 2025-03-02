@@ -49,15 +49,15 @@ Tujuan: Memperluas Aksesoris dengan informasi yang lebih spesifik terkait pakaia
 ## Alur program
 Program ini dirancang untuk mengelola produk di PetShop, khususnya pakaian dan aksesoris untuk hewan peliharaan. Berikut adalah gambaran umum alur kerja program:
 
-1️. Inisialisasi Program
+1️. Inisialisasi Program :
 Program pertama kali dijalankan sudah ada 5 objek awal
 
-2️. Pengisian Data Produk
+2️. Pengisian Data Produk:
 class Baju memiliki daftar produk bawaan yang berisi informasi seperti nama produk, harga, stok, jenis, bahan, warna, ukuran.
 Di program ini kita bisa menambahkan produk sesuai pengunanya
 
-3️. Penyimpanan Data
-Produk yang sudah diolah akan disimpan ke dalam array yang berisi objek
+3️. Penyimpanan Data:
+Produk yang sudah menjadi objek disimpan di array
 
 4️. Menampilkan Produk
 Program akan menampilkan daftar semua produk yang tersimpan dengan informasi seperti:
