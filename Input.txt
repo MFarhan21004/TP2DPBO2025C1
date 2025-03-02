@@ -1,0 +1,56 @@
+C++
+-------------------------------------------------------------------------
+5
+Topi_Kucing 60000 20 Topi Katun Biru Kucing S PurrStyle
+Baju_Kelinci 120000 10 Baju Wol Merah Kelinci M BunnyWear
+Harness_Kucing 140000 12 Harness Nilon Hitam Kucing L SafePaw
+Jaket_Burung 160000 8 Jaket Rajut Kuning Burung S FeatherF
+Syal_Kucing 75000 18 Syal Katun Pink Kucing M MeowLux
+
+3
+Kalung_Kucing 85000 15 Kalung Kulit Coklat Kucing M MeowLux
+Baju_Burung 110000 7 Baju Wol Biru Burung S FeatherWear
+Topi_Kelinci 70000 14 Topi Katun Hijau Kelinci S BunnyStyle
+
+------------------------------------------------------------------------
+
+Java
+------------------------------------------------------------------------
+4
+Baju_Burung 95000 6 Baju Katun Kuning Burung S FeatherWear
+Jaket_Kucing 130000 10 Jaket Wol Abu Kucing M MeowFur
+Syal_Kelinci 85000 12 Syal Katun Merah Kelinci S BunnyStyle
+Topi_Burung 50000 15 Topi Rajut Hijau Burung S FeatherCap
+
+6
+Sweater_Kucing 120000 5 Sweater Rajut Abu Kucing M PurrWarm
+Kalung_Burung 55000 9 Kalung Nilon Biru Burung S Feather
+Baju_Kelinci 105000 8 Baju Katun Hijau Kelinci M BunnyWear
+Topi_Kucing 45000 14 Topi Katun Merah Kucing S MeowCap
+Jaket_Burung 140000 6 Jaket Wol Coklat Burung M FeatherFur
+Syal_Kelinci 90000 11 Syal Katun Biru Kelinci S BunnySoft
+
+----------------------------------------------------------------------
+
+Python
+----------------------------------------------------------------------
+5
+Baju_Kelinci 115000 7 Baju Katun Hijau Kelinci M BunnySoft
+Topi_Kucing 55000 18 Topi Katun Pink Kucing S MeowCap
+Syal_Burung 75000 10 Syal Wol Biru Burung S FeatherWarm
+Jaket_Kucing 135000 6 Jaket Wol Merah Kucing L PurrWarm
+Kalung_Burung 60000 12 Kalung Kulit Coklat Burung S FeatherSky
+
+7
+Jaket_Burung 145000 6 Jaket Wol Coklat Burung M FeatherFur
+Syal_Kucing 85000 15 Syal Katun Abu Kucing M PurrStyle
+Kalung_Kelinci 70000 14 Kalung Nilon Merah Kelinci S BunnyChic
+Baju_Kucing 125000 5 Baju Katun Biru Kucing M MeowLuxury
+Topi_Burung 50000 20 Topi Rajut Kuning Burung S FeatherCap
+Jaket_Kelinci 140000 7 Jaket Wol Hitam Kelinci M BunnyWear
+Syal_Burung 65000 11 Syal Wol Biru Burung S FeatherWarm
+
+-----------------------------------------------------------------------
+
+
+
